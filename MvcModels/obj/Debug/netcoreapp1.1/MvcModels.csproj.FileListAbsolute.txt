@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\MvcModels\MvcModels\bin\Debug\netcoreapp1.1\MvcModels.deps.json
+C:\Users\Administrator\Desktop\MvcModels\MvcModels\bin\Debug\netcoreapp1.1\MvcModels.runtimeconfig.json
+C:\Users\Administrator\Desktop\MvcModels\MvcModels\bin\Debug\netcoreapp1.1\MvcModels.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\MvcModels\MvcModels\bin\Debug\netcoreapp1.1\MvcModels.dll
+C:\Users\Administrator\Desktop\MvcModels\MvcModels\bin\Debug\netcoreapp1.1\MvcModels.pdb
+C:\Users\Administrator\Desktop\MvcModels\MvcModels\obj\Debug\netcoreapp1.1\MvcModels.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MvcModels\MvcModels\obj\Debug\netcoreapp1.1\MvcModels.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\MvcModels\MvcModels\obj\Debug\netcoreapp1.1\MvcModels.dll
+C:\Users\Administrator\Desktop\MvcModels\MvcModels\obj\Debug\netcoreapp1.1\MvcModels.pdb
